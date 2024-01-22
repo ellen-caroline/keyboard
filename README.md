@@ -1,4 +1,6 @@
-# 🎹 keyboard
+🚧em desenvolvimento🚧
+<br>
+# 🎹 Keyboard
 Um jogo musical em JavaScript 🎶
 
 ### Descrição
