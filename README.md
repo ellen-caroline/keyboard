@@ -4,7 +4,7 @@
 Um jogo musical em JavaScript 🎶
 
 ### Descrição
-Desfrute da experiência de tocar um teclado virtual diretamente do seu navegador. O "Keyboard" é um jogo musical desenvolvido em HTML, CSS e JavaScript, proporcionando diversão e entretenimento para todos os amantes da música.
+Tenha a experiência de tocar um teclado virtual diretamente do seu navegador. O "Keyboard" é um jogo musical desenvolvido em HTML, CSS e JavaScript, proporcionando diversão e entretenimento para todos os amantes da música.
 
 ### Tecnologias
 - HTML
